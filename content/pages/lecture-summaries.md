@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the schedule of lecture topics for the course along
   with an overview what was covered in each session of this course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -127,7 +125,7 @@ Field trip to the Whitehead Institute and to the Whitehhead Flow Cytometry Facil
 
 Next we will stain hematopoietic cells from mouse with fluorescent antibodies against cell surface antigens CD71 and ter119 to analyze the level of red cell maturation using Fluorescence-Activated Cell Sorting (FACS). FACS is one of the corner stones of hematological research and leukemia diagnosis and is used in several of the papers discussed in the course. The analysis will be performed at the Whitehead Flow Cytometry Facility. You will learn how this technique allows multi-parametric analysis and separation of thousands of single cells per second using single wavelength lasers and detectors.
 
-[About Whitehead](http://www.wi.mit.edu/about/index.html)
+{{% resource_link "318d887e-959d-4488-bd67-867878a0526b" "About Whitehead" %}}
 
 
 {{< tdclose >}}
@@ -139,9 +137,9 @@ Next we will stain hematopoietic cells from mouse with fluorescent antibodies ag
 
 **Week 8 - Week 13: The journey of a 'wonder' drug, Gleevec**
 
-Case 1: On December 1995, 51 years old Judy Orem was diagnosed with chronic myeloid leukemia (CML). Bone marrow transplantation is the only known cure, but the procedure is highly dangerous and has less than a 30% success rate. Alternative treatments such as interferon and chemotherapy can extend her life by up to two years, but comes with serious side effects. \[[Read more about Judy Orem](http://www.parade.com/health/2009/09/20-new-cancer-treatments.html).\]
+Case 1: On December 1995, 51 years old Judy Orem was diagnosed with chronic myeloid leukemia (CML). Bone marrow transplantation is the only known cure, but the procedure is highly dangerous and has less than a 30% success rate. Alternative treatments such as interferon and chemotherapy can extend her life by up to two years, but comes with serious side effects. \[{{% resource_link "af5a1b9a-961e-449b-9546-d17fd8704ac0" "Read more about Judy Orem" %}}.\]
 
-Case 2: Marco Nese, 33 years old, was also diagnosed with CML. Since he has no siblings, bone marrow transplantation was not feasible. Although interferon could potentially extend his life from 5 to 7 years, he would live those years with serious side effects, often feeling tired and depressed. He began to work only part time. As his health continued to deteriorate, he started to work from home. Then he developed pneumonia and stopped working altogether. \[Read more about [Marco Nese](http://books.google.com/books?id=E4mTrvKKm14C&lpg=PT157&ots=EHJrpyl564&dq=Marco%20Nese&pg=PT157#v=onepage&q=Marco%20Nese&f=false).\]
+Case 2: Marco Nese, 33 years old, was also diagnosed with CML. Since he has no siblings, bone marrow transplantation was not feasible. Although interferon could potentially extend his life from 5 to 7 years, he would live those years with serious side effects, often feeling tired and depressed. He began to work only part time. As his health continued to deteriorate, he started to work from home. Then he developed pneumonia and stopped working altogether. \[Read more about {{% resource_link "be88ab7c-c0fa-4dd3-bea7-34d53718aeca" "Marco Nese" %}}.\]
 
 There are many patients like Judy and Marco who are in desperate need of a miracle drug. A drug that can save their lives or at least improve their quality of life. We will spend the remaining six sessions learning about the 'wonder' drug Gleevec.
 

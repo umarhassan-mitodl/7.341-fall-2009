@@ -33,8 +33,7 @@
     "website": "7-341-bench-to-bedside-molecularly-targeted-therapies-in-blood-disorders-and-malignancy-fall-2009"
   },
   "course_title": "Bench to Bedside: Molecularly Targeted Therapies in Blood Disorders and Malignancy",
-  "hide_download": true,
-  "course_description": "Where do new drugs and treatments come from? This class will take you from the test tubes and mice of the laboratory to the treatment of patients with deadly blood disorders. Students will learn how to think as a scientist through discussion of primary research papers describing the discoveries of several novel treatments. Topics such as gene therapy, the potential of drugs based on RNA interference and the reprogramming of somatic cells into stem cells for regenerative medicine will be discussed.\n\nThis course is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/course_listings/advanced_undergraduate_seminars) offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
+  "course_description": "Where do new drugs and treatments come from? This class will take you from the test tubes and mice of the laboratory to the treatment of patients with deadly blood disorders. Students will learn how to think as a scientist through discussion of primary research papers describing the discoveries of several novel treatments. Topics such as gene therapy, the potential of drugs based on RNA interference and the reprogramming of somatic cells into stem cells for regenerative medicine will be discussed.\n\nThis course is one of many {{% resource_link \"d23fe8d7-da2f-459c-895c-9ce8ebb7454f\" \"Advanced Undergraduate Seminars\" %}} offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
   "department_numbers": [
     "7"
   ],
@@ -44,7 +43,6 @@
     "content": "5d6d01e4-b56a-83cf-0676-0537410e1ca7",
     "website": "7-341-bench-to-bedside-molecularly-targeted-therapies-in-blood-disorders-and-malignancy-fall-2009"
   },
-  "hide_download_original": true,
   "learning_resource_types": [],
   "site_uid": "83ade0db-00f0-4c2c-a8db-d1096ffd3328",
   "site_short_id": "7.341-fall-2009",

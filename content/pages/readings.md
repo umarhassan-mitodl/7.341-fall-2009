@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the reading assignments for the course along reading
   notes from the professor.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -69,7 +67,7 @@ From Stem Cells to Blood
 
 Paper 2a: Identification of a factor that determines if donor HSCs are compatible with the recipient.
 
-Bach, F. H., and D. B. Amos. "[Hu-1: Major Histocompatibility Locus in Man](http://www.sciencemag.org/cgi/content/abstract/156/3781/1506)." _Science_ 156 (1967): 1506-1508.
+Bach, F. H., and D. B. Amos. "{{% resource_link "3721dd22-8d39-4534-b6a1-56d55ddc888e" "Hu-1: Major Histocompatibility Locus in Man" %}}." _Science_ 156 (1967): 1506-1508.
 
 
 {{< tdclose >}}
@@ -84,7 +82,7 @@ It had recently been shown that HSCs exist. The question was how to determine if
 
 Paper 2b: HSCs from siblings are used to treat a deadly genetic disorder.
 
-Gatti, R. A., H. J. Meuwissen, H. D. Allen, R. Hong, and R. A. Good. "[Immunological Reconstitution of Sex-linked Lymphopenic Immunological Deficiency](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(68)92673-1/abstract)." _Lancet_ 2 (1968): 1366-1369.
+Gatti, R. A., H. J. Meuwissen, H. D. Allen, R. Hong, and R. A. Good. "{{% resource_link "ce479d68-92e2-4940-9839-6f5c9547d2fa" "Immunological Reconstitution of Sex-linked Lymphopenic Immunological Deficiency" %}}." _Lancet_ 2 (1968): 1366-1369.
 
 
 {{< tdclose >}}
@@ -111,7 +109,7 @@ Gene delivery vehicles engineered from viruses
 
 Paper 3a: Discovery of RNA-dependent DNA-polymerase in retrovirus.
 
-Temin, H. M., and S. Mizutani. "[RNA-dependent DNA Polymerase in Virions of Rous Sarcoma Virus](http://www.nature.com/nature/journal/v226/n5252/abs/2261211a0.html)." _Nature_ 226 (1970): 1211-1213.
+Temin, H. M., and S. Mizutani. "{{% resource_link "b75bf778-331c-4fb4-9279-5bc9d04a0d6c" "RNA-dependent DNA Polymerase in Virions of Rous Sarcoma Virus" %}}." _Nature_ 226 (1970): 1211-1213.
 
 
 {{< tdclose >}}
@@ -126,7 +124,7 @@ In 1970 Howard Temin and his postdoctoral student Satoshi Mizutani announced tha
 
 Paper 3b: A method to deliver genes for gene therapy using modified human immunodeficiency virus.
 
-Naldini, L., U. Blomer, P. Gallay, D. Ory, R. Mulligan, F. H. Gage, I. M. Verma, and D. Trono. "[_In vivo_ Gene Delivery and Stable Transduction of Nondividing Cells by a Lentiviral Vector](http://www.sciencemag.org/cgi/content/abstract/272/5259/263)." _Science_ 272 (1996): 263-267.
+Naldini, L., U. Blomer, P. Gallay, D. Ory, R. Mulligan, F. H. Gage, I. M. Verma, and D. Trono. "{{% resource_link "b20f21ae-e47e-4a93-899f-0c9d2e5b4bc8" "_In vivo_ Gene Delivery and Stable Transduction of Nondividing Cells by a Lentiviral Vector" %}}." _Science_ 272 (1996): 263-267.
 
 
 {{< tdclose >}}
@@ -153,7 +151,7 @@ Treating genetic disorders by fixing the bad gene.
 
 Paper 4a: The first successful gene therapy trial.
 
-Cavazzana-Calvo, M., et al. "[Gene Therapy of Human Severe Combined Immunodeficiency (SCID)-X1 Disease](http://www.sciencemag.org/cgi/content/abstract/288/5466/669)." _Science_ 288 (2000): 669-672.
+Cavazzana-Calvo, M., et al. "{{% resource_link "0ddd6d5c-9253-4dec-a991-be79ade813d7" "Gene Therapy of Human Severe Combined Immunodeficiency (SCID)-X1 Disease" %}}." _Science_ 288 (2000): 669-672.
 
 
 {{< tdclose >}}
@@ -168,7 +166,7 @@ The first successful gene therapy trials described in this paper were both a hug
 
 Paper 4b: Leukemia develops in patients treated with gene therapy.
 
-Hacein-Bey-Abina, S., C. Von Kalle, M. Schmidt, M. P. McCormack, N. Wulffraat, P. Leboulch, A. Lim, C. S. Osborne, R. Pawliuk, E. Morillon, R. Sorensen, A. Forster, P. Fraser, J. Cohen, G. de Saint Basile, I. Alexander, U. Wintergerst, T. Frebourg, A. Aurias, D. Stoppa-Lyonnet, S. Romana, I. Radford-Weiss, F. Gross, F. Valensi, E. Delabesse, E. Macintyre, F. Sigaux, J. Soulier, L. Leiva, M. Wissler, C. Prinz, T. H. Rabbitts, F. Le Deist, A. Fischer, and M. Cavazzana-calvo. "[LMO2-associated Clonal T Cell Proliferation in Two Patients After Gene Therapy for SCID-X1](http://www.sciencemag.org/cgi/content/abstract/302/5644/415)." _Science_ 302 (2003): 415-419.
+Hacein-Bey-Abina, S., C. Von Kalle, M. Schmidt, M. P. McCormack, N. Wulffraat, P. Leboulch, A. Lim, C. S. Osborne, R. Pawliuk, E. Morillon, R. Sorensen, A. Forster, P. Fraser, J. Cohen, G. de Saint Basile, I. Alexander, U. Wintergerst, T. Frebourg, A. Aurias, D. Stoppa-Lyonnet, S. Romana, I. Radford-Weiss, F. Gross, F. Valensi, E. Delabesse, E. Macintyre, F. Sigaux, J. Soulier, L. Leiva, M. Wissler, C. Prinz, T. H. Rabbitts, F. Le Deist, A. Fischer, and M. Cavazzana-calvo. "{{% resource_link "e1c6885b-3246-4114-962d-5be383be45fb" "LMO2-associated Clonal T Cell Proliferation in Two Patients After Gene Therapy for SCID-X1" %}}." _Science_ 302 (2003): 415-419.
 
 
 {{< tdclose >}}
@@ -195,7 +193,7 @@ RNAi: Using an ancient defense against viral infection to turn off disease genes
 
 Paper 5a: Discovery of RNA interference, a mechanism and tool for specific down regulation of gene expression.
 
-Fire, A., S. Xu, M. K. Montgomery, S. A. Kostas, S. E. Driver, and C. C. Mello. "[Potent and Specific Genetic Interference by Double-stranded RNA in Caenorhabditis Elegans](http://www.nature.com/nature/journal/v391/n6669/abs/391806a0.html)." _Nature_ 391 (1998): 806-811.
+Fire, A., S. Xu, M. K. Montgomery, S. A. Kostas, S. E. Driver, and C. C. Mello. "{{% resource_link "ba050406-a14a-4de0-b670-7f98f36c762f" "Potent and Specific Genetic Interference by Double-stranded RNA in Caenorhabditis Elegans" %}}." _Nature_ 391 (1998): 806-811.
 
 
 {{< tdclose >}}
@@ -210,7 +208,7 @@ In 1998 Fire and Mello published this groundbreaking study in which they found t
 
 Paper 5b: Development of a method to deliver and regulate RNA interference to cells using lentiviral vectors.
 
-Wiznerowicz, M., and D. Trono. "[Conditional Suppression of Cellular Genes: Lentivirus Vector-mediated Drug-inducible RNA Interference](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC167245/)." _J Virol_ 77 (2003): 8957-8961.
+Wiznerowicz, M., and D. Trono. "{{% resource_link "9053c94d-da2c-4add-adaf-a9e0f615c2b1" "Conditional Suppression of Cellular Genes: Lentivirus Vector-mediated Drug-inducible RNA Interference" %}}." _J Virol_ 77 (2003): 8957-8961.
 
 
 {{< tdclose >}}
@@ -237,7 +235,7 @@ Future of personalized medicine using induced pluripotent stem (iPS) cells
 
 Paper 6a: Reprogramming fibroblasts to pluripotent stem cells that are similar to embryonic stem cells.
 
-Takahashi, K., and Yamanaka, S. "[Induction of Pluripotent Stem Cells from Mouse Embryonic and Adult Fibroblast Cultures by Defined Factors](http://www.cell.com/abstract/S0092-8674(06)00976-7)." _Cell_ 126 (2006): 663-676.
+Takahashi, K., and Yamanaka, S. "{{% resource_link "4f82021e-bcd2-4f01-8e94-bbee06192aff" "Induction of Pluripotent Stem Cells from Mouse Embryonic and Adult Fibroblast Cultures by Defined Factors" %}}." _Cell_ 126 (2006): 663-676.
 
 
 {{< tdclose >}}
@@ -252,7 +250,7 @@ This is one of the most important scientific publications in recent years. What 
 
 Paper 6b: Proof of principle that reprogramming of fibroblasts may be used for cell therapy of genetic hematological disorders.
 
-Hanna, J., M. Wernig, S. Markoulaki, C. W. Sun, A. Meissner, J. P. Cassady, C. Beard, T. Brambrink, L. C. Wu, T. M. Townes, and R. Jaenisch. "[Treatment of Sickle Cell Anemia Mouse Model with iPS Cells Generated from Autologous Skin](http://www.sciencemag.org/cgi/content/abstract/1152092)." _Science_ 318 (2007): 1920-1923.
+Hanna, J., M. Wernig, S. Markoulaki, C. W. Sun, A. Meissner, J. P. Cassady, C. Beard, T. Brambrink, L. C. Wu, T. M. Townes, and R. Jaenisch. "{{% resource_link "7697b6c1-b0d4-4692-b017-5d8607f10e3b" "Treatment of Sickle Cell Anemia Mouse Model with iPS Cells Generated from Autologous Skin" %}}." _Science_ 318 (2007): 1920-1923.
 
 
 {{< tdclose >}}
@@ -306,7 +304,7 @@ Identification of bcr-abl translocation and its oncogenic properties
 
 Paper 8a: The molecular identification of bcr-abl in chronic myeloid leukemia.
 
-Heisterkamp, N., J. Stephenson, J. Groffen, P. Hansen, A. Klein, C. Bartram, and G. Grosveld. "[Localization of the c-abl Oncogene Adjacent to a Translocation Break Point in Chronic Myelocytic Leukemia](http://www.nature.com/nature/journal/v306/n5940/abs/306239a0.html)." _Nature_ 306 (1983): 239-242.
+Heisterkamp, N., J. Stephenson, J. Groffen, P. Hansen, A. Klein, C. Bartram, and G. Grosveld. "{{% resource_link "07673b60-3219-48b9-a4eb-59ab431935c5" "Localization of the c-abl Oncogene Adjacent to a Translocation Break Point in Chronic Myelocytic Leukemia" %}}." _Nature_ 306 (1983): 239-242.
 
 
 {{< tdclose >}}
@@ -318,7 +316,7 @@ Heisterkamp, N., J. Stephenson, J. Groffen, P. Hansen, A. Klein, C. Bartram, and
 
 Paper 8b: One of the first studies to show that bcr-abl is the cause of chronic myeloid leukemia in mice.
 
-Daley, G., R. Van Etten, and D. Baltimore. "[Induction of Chronic Myelogenous Leukemia in Mice by the P210bcr/abl Gene of the Philadelphia Chromosome](http://www.sciencemag.org/cgi/content/abstract/247/4944/824)." _Science_ 247 (1990): 824-830.
+Daley, G., R. Van Etten, and D. Baltimore. "{{% resource_link "35ca7402-7358-4fb1-863b-289996102729" "Induction of Chronic Myelogenous Leukemia in Mice by the P210bcr/abl Gene of the Philadelphia Chromosome" %}}." _Science_ 247 (1990): 824-830.
 
 
 {{< tdclose >}}
@@ -342,7 +340,7 @@ Drug development for inhibiting kinase activity in the bcr-abl fusion
 
 Paper 9a: Reported the catalytic tyrosine kinase activity in the bcr-abl fusion.
 
-Lugo, T., A. M. Pendergast, A. Muller, and O. Witte. "[Tyrosine Kinase Activity and Transformation Potency of bcr-abl Oncogene Products](http://www.sciencemag.org/cgi/content/abstract/247/4946/1079)." _Science_ 122 (1990): 1079-1082.
+Lugo, T., A. M. Pendergast, A. Muller, and O. Witte. "{{% resource_link "502503bf-197c-4016-8415-4493b155c253" "Tyrosine Kinase Activity and Transformation Potency of bcr-abl Oncogene Products" %}}." _Science_ 122 (1990): 1079-1082.
 
 
 {{< tdclose >}}
@@ -378,7 +376,7 @@ Testing the efficacy of Gleevec in cell lines, mouse and human
 
 Paper 10a: Pioneering study that establish the powerful efficacy of Gleevec in bcr-abl-positive leukaemias _in vitro_ and mouse model.
 
-Druker, B. J., S. Tamura, E. Buchdunger, S. Ohno, G. Segal, S. Fanning, J. Zimmermann, and N. Lydon. "[Effects of a Selective Inhibitor of the Abl Tyrosine Kinase on the Growth of _Bcr-Abl_ Positive Cells](http://www.nature.com/leu/journal/v15/n4/full/2402068a.html)." _Nature Med_ 2 (1996): 561-566.
+Druker, B. J., S. Tamura, E. Buchdunger, S. Ohno, G. Segal, S. Fanning, J. Zimmermann, and N. Lydon. "{{% resource_link "94e63138-176d-4a74-b54f-619dd277118c" "Effects of a Selective Inhibitor of the Abl Tyrosine Kinase on the Growth of _Bcr-Abl_ Positive Cells" %}}." _Nature Med_ 2 (1996): 561-566.
 
 
 {{< tdclose >}}
@@ -390,7 +388,7 @@ Druker, B. J., S. Tamura, E. Buchdunger, S. Ohno, G. Segal, S. Fanning, J. Zimme
 
 Paper 10b: The first human clinical trial treating CML with Gleevec, documenting a high level of efficacy, minimal level of toxicity and describing the dose-response relationship.
 
-Druker, B. J., C. L. Sawyers, H. Hantarjin, D. J. Resta, S. F. Reese, J. M. Ford, R. Capedeville, and M. Talpaz. "[Activity of a Specific Inhibitor of the BCR-ABL Tyrosine Kinase in the Blast Crisis of Chronic Myeloid Leukemia and Acute Lymphoblastic Leukemia with the Philadelphia Chromosome](http://content.nejm.org/cgi/content/abstract/344/14/1038)." _N Engl J Med_ 344 (2001): 1038-1042.
+Druker, B. J., C. L. Sawyers, H. Hantarjin, D. J. Resta, S. F. Reese, J. M. Ford, R. Capedeville, and M. Talpaz. "{{% resource_link "27cfb010-2672-4f83-828c-cb9ec8984380" "Activity of a Specific Inhibitor of the BCR-ABL Tyrosine Kinase in the Blast Crisis of Chronic Myeloid Leukemia and Acute Lymphoblastic Leukemia with the Philadelphia Chromosome" %}}." _N Engl J Med_ 344 (2001): 1038-1042.
 
 
 {{< tdclose >}}
@@ -414,7 +412,7 @@ Evolving resistance to Gleevec
 
 Paper 11a: A detailed and informative description of the structural interactions between Gleevec and the ABL protein using crystallographic studies, which provide significant insight into potential mechanisms of resistance.
 
-Schindler., T., W. Bornmann, P. Pellicena, W. Miller, B. Clarkson, and J. Kuriyan. "Structural Mechanism for STI-571 Inhibition of Abelson Tyrosine Kinase." _Science_ 289 (2000): 1938-1942. ([PDF - 1.3MB](https://science.sciencemag.org/content/289/5486/1938))
+Schindler., T., W. Bornmann, P. Pellicena, W. Miller, B. Clarkson, and J. Kuriyan. "Structural Mechanism for STI-571 Inhibition of Abelson Tyrosine Kinase." _Science_ 289 (2000): 1938-1942. ({{% resource_link "ef66d194-689a-43f7-92dd-6e5b37561861" "PDF - 1.3MB" %}})
 
 
 {{< tdclose >}}
@@ -426,7 +424,7 @@ Schindler., T., W. Bornmann, P. Pellicena, W. Miller, B. Clarkson, and J. Kuriya
 
 Paper 11b: This study describes potential mechanisms of resistance in CML in patients bearing bcr-abl translocation.
 
-Gorre, M., M. Mohammed, K. Ellwood, M. Hsu, R. Paquette, P. Rao, and C. Sawyers. "Clinical Resistance to STI-571 Cancer Therapy Caused by bcr-abl Gene Mutation or Amplification." _Science_ 293 (2001): 876-880. ([PDF](https://science.sciencemag.org/content/289/5486/1938))
+Gorre, M., M. Mohammed, K. Ellwood, M. Hsu, R. Paquette, P. Rao, and C. Sawyers. "Clinical Resistance to STI-571 Cancer Therapy Caused by bcr-abl Gene Mutation or Amplification." _Science_ 293 (2001): 876-880. ({{% resource_link "ef66d194-689a-43f7-92dd-6e5b37561861" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -450,7 +448,7 @@ Overcoming Gleevec resistance
 
 Paper 12a: The first report to illustrate design and implementation of chemical screen to overcome Gleevec resistance.
 
-Shah, N., C. Tran, F. Lee, P. Chen, D. Norris, and C. Sawyers. "[Overriding Imatinib Resistance with a Novel ABL Kinase Inhibitor](http://www.sciencemag.org/cgi/content/abstract/305/5682/399)." _Science_ 305, no. 5682 (2004): 399-401.
+Shah, N., C. Tran, F. Lee, P. Chen, D. Norris, and C. Sawyers. "{{% resource_link "053eb0d4-38e6-4c08-b35b-80f511d7bf90" "Overriding Imatinib Resistance with a Novel ABL Kinase Inhibitor" %}}." _Science_ 305, no. 5682 (2004): 399-401.
 
 
 {{< tdclose >}}
@@ -462,7 +460,7 @@ Shah, N., C. Tran, F. Lee, P. Chen, D. Norris, and C. Sawyers. "[Overriding Imat
 
 Paper 12b: Clinical efficacy of, a novel bcr-abl kinase inhibitor, dasatinib in patients developing resistance to Gleevec.
 
-Hochhaus, A., H. Kan, M. Baccarani, J. Lipton, J. Apperley, B. Druker, T. Facon, S. L. Goldberg, F. Cervantes, D. Niederwieser, R. Silver, R. Stone, T. Huges, M. Muller, R. Ezzeddine, A. Countoouriotis, and N. Shah. "[Dasatinib Induces Notable Hematologic and Cytogenetic Responses in Chronic-phase Chronic Myeloid Leukemia After Failure of Imatinib Therapy](https://www.ncbi.nlm.nih.gov/pubmed/17138817)." _Blood_ 109, no. 6 (2007): 2303-9.
+Hochhaus, A., H. Kan, M. Baccarani, J. Lipton, J. Apperley, B. Druker, T. Facon, S. L. Goldberg, F. Cervantes, D. Niederwieser, R. Silver, R. Stone, T. Huges, M. Muller, R. Ezzeddine, A. Countoouriotis, and N. Shah. "{{% resource_link "399e993d-058e-4c01-bee2-4b98f51b06a5" "Dasatinib Induces Notable Hematologic and Cytogenetic Responses in Chronic-phase Chronic Myeloid Leukemia After Failure of Imatinib Therapy" %}}." _Blood_ 109, no. 6 (2007): 2303-9.
 
 
 {{< tdclose >}}
@@ -486,7 +484,7 @@ Use of Gleevec in other diseases
 
 Paper 13a: This study highlights the importance of receptor for stem-cell factor- c-kit, a receptor kinase signaling in the pathogenesis of gastrointestinal stromal tumors.
 
-Hirota, S., K. Isozaki, Y. Moriyama, K. Hashimoto, T. Nishida, S. Ishiguro, K. Kawano, M. Hanada, A. Kurata, M. Takeda, T. Muhammad, Y. Matsuzawa, Y. Kanakura, Y. Shinomura, and Y. Kitamura. "[Gain of Function Mutations of c-Kit in Human Gastrointestinal Stromal Tumors](http://www.sciencemag.org/cgi/content/abstract/279/5350/577)." _Science_ 279 (1998): 577-580.
+Hirota, S., K. Isozaki, Y. Moriyama, K. Hashimoto, T. Nishida, S. Ishiguro, K. Kawano, M. Hanada, A. Kurata, M. Takeda, T. Muhammad, Y. Matsuzawa, Y. Kanakura, Y. Shinomura, and Y. Kitamura. "{{% resource_link "c67aa7cc-6a01-4673-98d9-140c69376076" "Gain of Function Mutations of c-Kit in Human Gastrointestinal Stromal Tumors" %}}." _Science_ 279 (1998): 577-580.
 
 
 {{< tdclose >}}
@@ -498,7 +496,7 @@ Hirota, S., K. Isozaki, Y. Moriyama, K. Hashimoto, T. Nishida, S. Ishiguro, K. K
 
 Paper 13b: A proof-of-concept documenting the efficacy of Gleevec in kit-expressing gastrointestinal stromal tumors (GIST).
 
-Joensuu, H., P. J. Roberts, M. Sarlomo, D. Tuveson, S. L. Silberman, R. Capdeville, S. Dimitrijevic, B. Druker, and G. Demetri. "[Effect of the Tyrosine Kinase Inhibitor STI571 in a Patient with Metastatic Gastrointestinal Stromal Tumor](http://content.nejm.org/cgi/content/short/344/14/1052)." _N Engl J Med_ 344 (2001): 1052-1056.
+Joensuu, H., P. J. Roberts, M. Sarlomo, D. Tuveson, S. L. Silberman, R. Capdeville, S. Dimitrijevic, B. Druker, and G. Demetri. "{{% resource_link "f4a5bad2-a48b-4133-a5ff-67dcec198e7a" "Effect of the Tyrosine Kinase Inhibitor STI571 in a Patient with Metastatic Gastrointestinal Stromal Tumor" %}}." _N Engl J Med_ 344 (2001): 1052-1056.
 
 
 {{< tdclose >}}
